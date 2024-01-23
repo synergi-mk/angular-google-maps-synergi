@@ -1,0 +1,37 @@
+{
+  "name": "agm-core-synergi-markerclusterer",
+  "version": "4.0.0",
+  "description": "Angular Google Maps (AGM) extension for markerclusterer support",
+  "author": "Daniela Gjorgjijevska",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi/issues"
+  },
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "markerclusterer",
+    "google-maps",
+    "agm"
+  ],
+  "peerDependencies": {
+    "@agm/core": "3.0.0-beta.1",
+    "@angular/common": "16.0.0",
+    "@angular/core": "16.0.0",
+    "@google/markerclustererplus": "^5.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@agm/core": "3.0.0-beta.1",
+    "@google/markerclustererplus": "^5.0.4",
+    "@types/googlemaps": "^3.39.8",
+    "@types/jest": "^26.0.3"
+  }
+}

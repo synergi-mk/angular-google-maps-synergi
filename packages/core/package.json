@@ -1,0 +1,36 @@
+{
+  "name": "agm-core-synergi",
+  "version": "4.0.0",
+  "description": "Angular components for Google Maps",
+  "author": "Daniela Gjorgjijevska",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi/issues"
+  },
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular",
+    "ng",
+    "google-maps",
+    "maps",
+    "google",
+    "gmaps"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/googlemaps": "^3.39.8",
+    "@types/jest": "^26.0.3",
+    "jest": "^29.7.0",
+    "jest-preset-angular": "^13.1.1"
+  }
+}

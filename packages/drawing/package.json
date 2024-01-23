@@ -1,0 +1,29 @@
+{
+  "name": "agm-core-synergi-drawing",
+  "version": "4.0.0",
+  "description": "Angular Google Maps (AGM) extension for google maps drawing library",
+  "author": "Daniela Gjorgjijevska",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi/issues"
+  },
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "google-maps",
+    "agm",
+    "map-drawing"
+  ],
+  "peerDependencies": {
+    "@angular/common": "16.0.0",
+    "@angular/core": "16.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

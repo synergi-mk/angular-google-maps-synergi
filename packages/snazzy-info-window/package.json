@@ -1,0 +1,35 @@
+{
+  "name": "agm-core-synergi-snazzy-info-window",
+  "version": "4.0.0",
+  "description": "Angular Google Maps (AGM) package for Snazzy Info Window support",
+  "author": "Daniela Gjorgjijevska",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/synergi-mk/angular-google-maps-synergi/issues"
+  },
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "google-maps",
+    "agm",
+    "snazzy-info-window"
+  ],
+  "peerDependencies": {
+    "@agm/core": "3.0.0-beta.1",
+    "@angular/common": "16.0.0",
+    "@angular/core": "16.0.0",
+    "snazzy-info-window": "^1.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/googlemaps": "^3.39.8",
+    "@agm/core": "3.0.0-beta.1"
+  }
+}
